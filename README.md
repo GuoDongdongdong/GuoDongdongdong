@@ -17,7 +17,7 @@
 ---
 
 <div align="center">
-  <p>✨ Check out my <a href="https://guodongdongdong.github.io/">personal website</a> for more about me.</p>
+  <p>✨ <a href="https://guodongdongdong.github.io/">personal website</a> · More about me here</p>
 </div>
 
 <table>
