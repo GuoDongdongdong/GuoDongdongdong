@@ -2,13 +2,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&color=10B981&center=true&vCenter=true&pause=99999&speed=20&lines=Hi,+I'm+xuguodong." alt="line1"/>
   <br/>
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=15&color=6EE7B7&center=true&vCenter=true&pause=99999&speed=20&lines=Backend+engineer.+Agent+explorer." alt="line2"/>
-  <p>
-    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px" height="28px"/>
-    <strong>Welcome to my GitHub profile!</strong>
-  </p>
 
   <p>
-    <code>🇨🇳 Based in China</code>
+    <code>🎂 Born 2000</code>
+    <code>📍 Based in Beijing</code>
+    <code>🎓 M.S. in Software Engineering · Northwest University</code>
+    <code>💼 Working at Kuaishou</code>
   </p>
 
   <p>
@@ -48,5 +47,5 @@
 ---
 
 <div align="center">
-  <p>✨ Thanks for visiting! Check out my <a href="https://guodongdongdong.github.io/">personal website</a> for more about me.</p>
+  <p>✨ Check out my <a href="https://guodongdongdong.github.io/">personal website</a> for more about me.</p>
 </div>
