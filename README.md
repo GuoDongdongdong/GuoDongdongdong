@@ -24,31 +24,24 @@
 
 #### 🙋 About Me
 
-- 💻 Passionate **Software Engineer**
-- 🚀 Interested in open source & system design
-- 📚 Always learning new technologies
-- 🌐 Visit my site: [guodongdongdong.github.io](https://guodongdongdong.github.io/)
+- 🤖 Fascinated by **AI & Agent** — exploring the frontier of intelligent systems
+- 🌱 Open source enthusiast — love contributing and learning from the community
+- 🏗️ Passionate about **system design** and building scalable backends
+- 🔍 Always digging deeper — curiosity-driven and never stop exploring
 
 </td>
 <td valign="top" width="50%">
 
 #### 🛠️ Tech Stack
 
-- **Languages:** Python · Go · Java · TypeScript
-- **Frontend:** React · Vue
-- **Backend:** Spring Boot · Node.js
-- **Tools:** Git · Docker · Linux
+- **Main:** Java · Spring Boot
+- **Also use:** Python · C++
+- **Exploring:** Go · TypeScript
+- **AI/Agent:** LangChain · LangGraph · MCP · RAG
 
 </td>
 </tr>
 </table>
-
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GuoDongdongdong&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuoDongdongdong&layout=compact&hide_border=true" alt="Top Languages" />
-</div>
 
 ---
 
