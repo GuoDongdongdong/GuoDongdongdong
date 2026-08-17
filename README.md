@@ -6,8 +6,10 @@
   <p>
     <code>🎂 Born 2000</code>
     <code>📍 Based in Beijing</code>
-    <code>🎓 M.S. in Software Engineering · Northwest University</code>
     <code>💼 Working at Kuaishou</code>
+  </p>
+  <p>
+    <code>🎓 M.S. in Software Engineering · Northwest University</code>
   </p>
 
   <p>
