@@ -12,14 +12,13 @@
     <code>🎓 M.S. in Software Engineering · Northwest University</code>
   </p>
 
-  <p>
-    <a href="https://guodongdongdong.github.io/">
-      <img src="https://img.shields.io/badge/🌐 Personal Website-guodongdongdong.github.io-0078D7?style=flat-square" alt="Personal Website"/>
-    </a>
-  </p>
 </div>
 
 ---
+
+<div align="center">
+  <p>✨ Check out my <a href="https://guodongdongdong.github.io/">personal website</a> for more about me.</p>
+</div>
 
 <table>
 <tr>
@@ -47,7 +46,3 @@
 </table>
 
 ---
-
-<div align="center">
-  <p>✨ Check out my <a href="https://guodongdongdong.github.io/">personal website</a> for more about me.</p>
-</div>
