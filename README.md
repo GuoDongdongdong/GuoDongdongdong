@@ -7,12 +7,11 @@
 
   <p>
     <code>🇨🇳 Based in China</code>
-    <code>🌐 <a href="https://guodongdongdong.github.io/">Personal Website</a></code>
   </p>
 
   <p>
     <a href="https://guodongdongdong.github.io/">
-      <img src="https://img.shields.io/badge/🌐_Personal_Website-guodongdongdong.github.io-0078D7?style=flat-square" alt="Personal Website"/>
+      <img src="https://img.shields.io/badge/🌐 Personal Website-guodongdongdong.github.io-0078D7?style=flat-square" alt="Personal Website"/>
     </a>
   </p>
 </div>
@@ -25,41 +24,20 @@
 
 #### 🙋 About Me
 
-- 💻 Passionate **Software Engineer** who loves building things
-- 🚀 Interested in open source, full-stack development, and system design
-- 📚 Always learning and exploring new technologies
-- 🌐 Check out my personal website: [guodongdongdong.github.io](https://guodongdongdong.github.io/)
+- 💻 Passionate **Software Engineer**
+- 🚀 Interested in open source & system design
+- 📚 Always learning new technologies
+- 🌐 Visit my site: [guodongdongdong.github.io](https://guodongdongdong.github.io/)
 
 </td>
 <td valign="top" width="50%">
 
 #### 🛠️ Tech Stack
 
-- **Languages:** <!-- e.g. Python, Go, Java, TypeScript -->
-- **Frontend:** <!-- e.g. React, Vue -->
-- **Backend:** <!-- e.g. Spring Boot, Node.js -->
-- **Tools:** Git, Docker, Linux
-
-</td>
-</tr>
-</table>
-
----
-
-<table>
-<tr>
-<td valign="top" width="50%">
-
-#### 💼 Experience
-
-> Feel free to update with your work or internship experience.
-
-</td>
-<td valign="top" width="50%">
-
-#### 💻 Open Source & Projects
-
-> Check out my repositories below 👇
+- **Languages:** Python · Go · Java · TypeScript
+- **Frontend:** React · Vue
+- **Backend:** Spring Boot · Node.js
+- **Tools:** Git · Docker · Linux
 
 </td>
 </tr>
@@ -75,5 +53,5 @@
 ---
 
 <div align="center">
-  <p>✨ Thanks for visiting! Feel free to explore my <a href="https://guodongdongdong.github.io/">personal website</a> to learn more about me.</p>
+  <p>✨ Thanks for visiting! Check out my <a href="https://guodongdongdong.github.io/">personal website</a> for more about me.</p>
 </div>
