@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=16&color=10B981&center=true&vCenter=true&pause=2000&speed=40&lines=Hi,+I'm+xuguodong.;Backend+engineer.+Agent+explorer." alt="Hi"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&color=10B981&center=true&vCenter=true&pause=99999&speed=20&lines=Hi,+I'm+xuguodong." alt="line1"/>
+  <br/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=15&color=6EE7B7&center=true&vCenter=true&pause=99999&speed=20&lines=Backend+engineer.+Agent+explorer." alt="line2"/>
   <p>
     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px" height="28px"/>
     <strong>Welcome to my GitHub profile!</strong>
